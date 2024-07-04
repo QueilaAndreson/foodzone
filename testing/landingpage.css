@@ -1,0 +1,38 @@
+.left_cart_menu {
+    background-color: black;
+    height: 18%;
+    width: 10%;
+    border-radius: 20px;
+    margin-left: 2%;
+}
+.left_cart_menu_svg{
+    display: grid;
+    /* grid-template-columns: auto; */
+    padding: 33% 15%;
+}
+.menu {
+    background-color: #f1d5bb;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+}
+.food_image img {
+    /* height: 224px; */
+    width: 220px;
+    height: 230px;
+    /* gap: 10px; */
+    padding: 10px 10px;
+}
+.menu_title {
+    /* display: flex;
+    flex-direction: column; */
+    /* display: grid;
+    justify-items: center; */
+    /* grid-row: auto; */
+}
+/* .food_name{
+    font-family: mulish;
+    font-size: 20px;
+    line-height: 25.1px;
+} */
